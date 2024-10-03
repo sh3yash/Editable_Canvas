@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+canvas-container {
+  padding: 20px;
+  background-color: #f9fafc;
+}
